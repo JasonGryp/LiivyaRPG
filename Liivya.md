@@ -7,7 +7,7 @@ Gremlin 3 (Internet Gremlin), Survivalist 7 (Hardcore survivor), Builder 5 (Scho
 
 **Armor Class** 14 (jiggly natural armor)
 
-**Hit Points** 69 
+**Hit Points** 69
 
 **Speed** 20ft (tiny legs)
 
