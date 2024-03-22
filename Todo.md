@@ -32,9 +32,9 @@
 
 
 Alt Liivs: 
-- [ ] Vtuber Christmas Outfit
-- [ ] Vtuber Maid Outfit
-- [ ] Vtuber Librarian Outfit -> wizard, records of the World, my glaaases
+- [x] Vtuber Christmas Outfit
+- [x] Vtuber Maid Outfit
+- [x] Vtuber Librarian Outfit -> wizard, records of the World, my glaaases
 - [ ] Chibi Liiv
 - [ ] Vtuber Emo Outfit -> barbarian emo punk rage is a moss pit
 - [ ] Vtuber Guildmistress Outfit -> Rogue Warlock crime boss
