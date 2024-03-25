@@ -5,7 +5,7 @@ Monk 4 (Way of the Biting Teeth)
 
 ---
 
-**Armor Class** 13 (unarmored defense)
+**Armor Class** 14 (unarmored defense)
 
 **Hit Points** 42 (3d8 + 18)
 
