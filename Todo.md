@@ -36,8 +36,8 @@ Alt Liivs:
 - [x] Vtuber Maid Outfit
 - [x] Vtuber Librarian Outfit -> wizard, records of the World, my glaaases
 - [x] Chibi Liiv
-- [ ] Vtuber Emo Outfit -> barbarian emo punk rage is a moss pit
-- [ ] Vtuber Guildmistress Outfit -> Rogue Warlock crime boss
+- [x] Vtuber Emo Outfit -> barbarian emo punk rage is a moss pit
+- [x] Vtuber Guildmistress Outfit -> Rogue Warlock crime boss
 
 NPCS:
 - [ ] Apple
