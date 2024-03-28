@@ -1,36 +1,35 @@
-small beast (feline), chaotic neutral
+# Mr. Grace
+_Small beast (feline), chaotic neutral_
 
----------------------------------------- 
+---
 
-Armor Class: 10 (natural armor)
-Speed: 15ft, 55ft (zoomies only)
+**Armor Class**: 10 (natural armor)
 
-----------------------------------------
+**Speed**: 15ft, 55ft (zoomies only)
 
+---
 
-| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-| -------- | --------- | ------------ | ------------ | ------ | -------- |
-| 10       | 6         | 14           | 18           | 17     | 20       |
+## Attributes
+Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma
+:-:|:-:|:-:|:-:|:-:|:-:
+10(+0) | 6(-2) | 14(+2) | 18(+4) | 17(+3) | 20(+5)
 
-----------------------------------------
-Senses: passive Perception 15 (can see into the ethereal Plane)
-Languages: Yes 
-Skills and Tools: +10 Stealth 
-Conditions: Asleep (probably), Hungry (definitely) 
+## Skills
+**Senses**: passive Perception 15 (can see into the Ethereal Plane)
 
----------------------------------------- 
-#### Majestic:
-All friendly humanoid have disadvantage in denying Mr. Grace anything he desires. 
+**Languages**: Yes 
 
-#### Cat Cam:
-Mr. Grace's patron maybe summon Mr. Grace to display to all creatures. Any Creature that sees Mr. Grace is charmed by him.
+**Skills and Tools**: +10 Stealth 
 
-#### Just a little guy:
-He is just a little guy
+**Conditions**: Asleep (probably), Hungry (definitely) 
 
----------------------------------------- 
-#### Actions:
-Murder mittens: Mr. Grace always stays strapped, if you dare to cross him or he just feels like it, he can attack you with the in-built murder mittens dealing 1d4 slashing damage and 1d8 psychic damage.
+## Abilities
+**Majestic**: All friendly humanoids have disadvantage in denying Mr. Grace anything he desires.
 
----------------------------------------- 
-#### Familiar: [[Mr. Grace]]
+**Cat Cam**: Mr. Grace's patron may summon Mr. Grace to display to all creatures.
+Any creature that sees Mr. Grace is charmed by him.
+
+**Just a little guy**: He is just a little guy.
+
+**Murder mittens**: Mr. Grace always stays strapped.
+If you dare to cross him or he just feels like it, he can attack you with the in-built murder mittens dealing 1d4 slashing damage and 1d8 psychic damage.
