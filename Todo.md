@@ -39,7 +39,7 @@ Alt Liivs:
 - [x] Vtuber Emo Outfit -> barbarian emo punk rage is a moss pit
 - [x] Vtuber Guildmistress Outfit -> Rogue Warlock crime boss
 
-NPCS:
+NPCS (cancelled):
 - [ ] Apple
 - [ ] Avvy
 - [ ] Gazza

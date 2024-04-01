@@ -14,9 +14,9 @@ Gremlin 3 (Internet Gremlin), Survivalist 7 (Hardcore survivor), Builder 5 (Scho
 ---
 
 ## Attributes
-Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma
-:-:|:-:|:-:|:-:|:-:|:-:
-11(+0) | 6(-2) | 14(+2) | 20(+5) | 18(+4) | 17(+3)
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :------: | :-------: | :----------: | :----------: | :----: | :------: |
+|  11(+0)  |   6(-2)   |    14(+2)    |    20(+5)    | 18(+4) |  17(+3)  |
 
 ## Skills
 **Skills and Tools**: -3 Acrobatics, +7 Insight, +9 Performance, Broadcasting Software
